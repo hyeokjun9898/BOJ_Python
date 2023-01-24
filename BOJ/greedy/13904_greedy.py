@@ -1,5 +1,4 @@
 import sys
-import heapq
 sys.stdin = open("BOJ\\greedy\\input5.txt",'r')
 input = sys.stdin.readline
 array = []
